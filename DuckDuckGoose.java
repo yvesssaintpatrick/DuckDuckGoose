@@ -3,10 +3,6 @@
  *The code below simulates a game of Duck,Duck,Goose.
  *
  *
- * @author Shawn Lartey
- * AUSCI 235
- * 14/03/23
- *
  * There are some instances where the output is wrong , this is due to the reverse rotation function.
  * However,this functions needs to be used as I am unaware of how to create two duplicate instances of
  * the original list . i.e : if I rotate a list I called it pattern clockwise both the original list
